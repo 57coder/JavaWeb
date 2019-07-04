@@ -1,4 +1,4 @@
-	编写一个servlet。servlet的功能要求：记录访问该servlet的客户端的ip和访问时间，把记录写入client_ip.log文件。client_ip.log里的格式大致如下：
+  编写一个servlet。servlet的功能要求：记录访问该servlet的客户端的ip和访问时间，把记录写入client_ip.log文件。client_ip.log里的格式大致如下：
 9:36 25-4-8 192.168..1
 9:36 25-4-8 127...1部分代码已给出：
 
